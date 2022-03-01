@@ -1,7 +1,6 @@
 .stack-work/
 *~
 dist/
-dist-newstyle/
 result
 result-*
 /.pre-commit-config.yaml
